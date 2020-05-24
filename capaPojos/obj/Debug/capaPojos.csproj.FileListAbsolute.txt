@@ -1,0 +1,72 @@
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\obj\Debug\capaPojos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Angel\Documents\otroRepo\MovistarElChido\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\laser\Desktop\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Angel\Documents\repoMovistarNuevo3\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\laser\Documents\11 Semestre\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\NuevoMovistarChido\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Angel\Pictures\nuevo\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\MovistarVersionFinal\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\PanchoProgram\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\M\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Angel\Videos\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Desktop\El BUeno\MovistarNuevo\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.pdb
