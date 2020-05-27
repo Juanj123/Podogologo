@@ -189,6 +189,11 @@ namespace ProyectoMovistar
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel<Inventario>();
+        }
+
         private void btnMaximizar_Click(object sender, EventArgs e)
         {
             lx = this.Location.X;

@@ -70,3 +70,9 @@ C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.csp
 C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
 C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.dll
 C:\Users\Juanjo\Downloads\MovistarNuevo-master\capaPojos\obj\Debug\capaPojos.pdb
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\bin\Debug\capaPojos.dll
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\bin\Debug\capaPojos.pdb
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\obj\Debug\capaPojos.csprojAssemblyReference.cache
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\obj\Debug\capaPojos.csproj.CoreCompileInputs.cache
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\obj\Debug\capaPojos.dll
+C:\Users\Allan P\Documents\Proyectos Empresa\Podologo\capaPojos\obj\Debug\capaPojos.pdb

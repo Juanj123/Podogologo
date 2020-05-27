@@ -157,6 +157,7 @@
             this.VentaList.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.VentaList.BackColor = System.Drawing.Color.White;
+            this.VentaList.HideSelection = false;
             this.VentaList.Location = new System.Drawing.Point(12, 171);
             this.VentaList.Name = "VentaList";
             this.VentaList.Size = new System.Drawing.Size(744, 183);
@@ -219,7 +220,7 @@
             // 
             this.txtTotal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtTotal.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTotal.Location = new System.Drawing.Point(667, 362);
+            this.txtTotal.Location = new System.Drawing.Point(667, 363);
             this.txtTotal.Multiline = true;
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.ReadOnly = true;

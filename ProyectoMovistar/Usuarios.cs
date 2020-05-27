@@ -169,5 +169,10 @@ namespace ProyectoMovistar
                 MessageBox.Show("Verifique los datos ingresados", "Usuarios", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
         }
+
+        private void cmbTipo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

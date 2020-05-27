@@ -174,5 +174,11 @@ namespace ProyectoMovistar
     //        panel2.BackColor = myRgbColor;
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            principal a = new principal();
+            a.Show();
+        }
     }
 }
